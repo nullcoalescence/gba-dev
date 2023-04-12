@@ -25,4 +25,4 @@ I'll have to document this setup process a bit better.
     - populates the make file with proper lib dirs
     - copies lib common/include/headers into project
     - generate a buildscript configured to properly compile project with max vm cores and copy artifacts to configured smb share
-2) explore butano sample
+2) explore butano sample code
