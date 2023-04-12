@@ -1,6 +1,6 @@
 ## dev
 
-gba games can be written in c, or assembly... or something slightly more modern like c++. I'd like to use the hihg level c++ lib like [butano](https://github.com/GValiente/butano).
+gba games can be written in c, or assembly... or something slightly more modern like c++. I'd like to use the high level c++ lib like [butano](https://github.com/GValiente/butano).
 
 ## setup
 development can be done locally on windows, however it involves building with 'devkitpro', which is a bit of a hackjob on windows. I have a debian linux vm setup with this installed, and development can be done on windows in vs code thru a remote ssh session to the vm for compilation/syntax highlighting purposes.
