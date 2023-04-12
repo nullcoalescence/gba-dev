@@ -18,10 +18,11 @@ $ mgba rom_out.gba
 I'll have to document this setup process a bit better.
 
 ## todo
-1) write a project setup script which...
+1) write a project setup script ran on the linux vm which...
+    - pulls from a `config.json` or something to grab dirs, values, etc, that I've setup
     - creates a butano app based on the butano template
     - prompts user for rom name and other params
     - populates the make file with proper lib dirs
     - copies lib common/include/headers into project
     - generate a buildscript configured to properly compile project with max vm cores and copy artifacts to configured smb share
-
+2) explore butano sample
