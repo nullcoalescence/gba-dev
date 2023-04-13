@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "${workspaceFolder}/build/**",
+                "${workspaceFolder}/include/**",
+                "/home/ben/gbadev/butano_lib/butano/include/**",
+                "/home/ben/gbadev/butano_lib/butano/src/**",
+                "/opt/devkitpro/**",
+                "/opt/devkitpro/libgba/include/**",
+                "/opt/devkitpro/libtonc/include/**",
+                "/opt/devkitpro/devkitARM/include/**",
+                "/opt/devkitpro/devkitARM/arm-none-eabi/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/src/**",
+                    "${workspaceFolder}/build/**",
+                    "${workspaceFolder}/include/**",
+                    "/home/ben/gbadev/butano_lib/butano/include/**",
+                    "/home/ben/gbadev/butano_lib/butano/src/**",
+                    "/opt/devkitpro/**",
+                    "/opt/devkitpro/libgba/include/**",
+                    "/opt/devkitpro/libtonc/include/**",
+                    "/opt/devkitpro/devkitARM/include/**",
+                    "/opt/devkitpro/devkitARM/arm-none-eabi/include/**"
+                ]
+            },
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-arm",
+        }
+    ],
+    "version": 4
+}
