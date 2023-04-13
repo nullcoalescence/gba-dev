@@ -5,3 +5,4 @@ I'm going to add to it myself, the homies are also welcome to open up PRs and up
 
 ## links
 - [dev docs](https://github.com/nullcoalescence/gba-dev/blob/main/dev.md)
+- [setting up a new project](https://github.com/nullcoalescence/gba-dev/blob/main/new_project.md)
