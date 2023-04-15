@@ -1,4 +1,4 @@
-  GNU nano 5.4                                                                                                                                       setup_butano_project.sh                                                                                                                                                #! /bin/bash
+#! /bin/bash
 
 # verify config file exists
 script_dir=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
