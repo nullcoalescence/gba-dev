@@ -1,0 +1,10 @@
+# config file for 'create_butano_project.sh'
+
+# absolute path to butano's root dir. ie: path to folder cloned from butano's git repo
+butano_root_dir=/home/ben/gbadev/butano_lib
+
+# cores to give cmake when compiling
+cmake_cores=4
+
+# smb path - path to smb share mount to transfer compiled gba rom
+smb_path=/mnt/devshare/gbadev/roms
